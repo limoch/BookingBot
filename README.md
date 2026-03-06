@@ -1,3 +1,5 @@
+![Booking animation]([https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://i.pinimg.com/originals/0a/33/23/0a3323b80b08b630741fdc5ff98a9ff3.gif))
+
 # Telegram Booking Bot
 
 A **modern and flexible Telegram bot** template for appointment scheduling. Designed for salons, studios, and service providers, this bot allows clients to book services, view portfolios, and receive reminders, all in a clean, easy-to-use interface.
