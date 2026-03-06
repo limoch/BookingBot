@@ -1,4 +1,4 @@
-![Booking animation]([https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://i.pinimg.com/originals/0a/33/23/0a3323b80b08b630741fdc5ff98a9ff3.gif))
+![Booking animation](https://i.pinimg.com/originals/c3/33/bc/c333bce163b5c8277a54b0f842041daa.gif)
 
 # Telegram Booking Bot
 
