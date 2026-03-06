@@ -34,5 +34,4 @@ Follow these steps to set up the bot:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/telegram-booking-bot.git
-cd telegram-booking-bot
+git clone https://github.com/limoch/BookingBot.git
