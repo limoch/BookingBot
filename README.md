@@ -35,3 +35,15 @@ Follow these steps to set up the bot:
 
 ```bash
 git clone https://github.com/limoch/BookingBot.git
+```
+2. Create a virtual environment
+```bash
+python -m venv venv
+# Activate on Windows
+venv\Scripts\activate
+# Activate on Linux/macOS
+source venv/bin/activate
+```
+Install dependencies
+```bash
+pip install -r requirements.txt
